@@ -1,4 +1,4 @@
----
+don't kill scrobble in panoscrobble 
 manufacturer: samsung
 
 ---
